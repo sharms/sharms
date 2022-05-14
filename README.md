@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Metrics](https://github.com/sharms/sharms/actions/workflows/main.yml/badge.svg)](https://github.com/sharms/sharms/actions/workflows/main.yml)
+![Metrics](/github-metrics.svg)
