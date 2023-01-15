@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Metrics](https://github.com/sharms/sharms/actions/workflows/main.yml/badge.svg)](https://github.com/sharms/sharms/actions/workflows/main.yml)
-![Metrics](https://metrics.lecoq.io/sharms?template=terminal&achievements=1&lines=1&repositories=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FDenver)
+![Metrics](/github-metrics.svg)
